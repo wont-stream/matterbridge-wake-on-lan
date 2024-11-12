@@ -1,5 +1,5 @@
 {
-  "name": "matterbridge-example-dynamic-platform",
+  "name": "matterbridge-wake-on-lan",
   "version": "1.0.24",
   "description": "Matterbridge dynamic plugin",
   "author": "https://github.com/Luligu",
@@ -79,6 +79,7 @@
     "typescript-eslint": "8.13.0"
   },
   "dependencies": {
+    "matterbridge": "^1.6.1",
     "node-ansi-logger": "3.0.0",
     "node-persist-manager": "1.0.8"
   }
